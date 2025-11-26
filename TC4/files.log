@@ -1,0 +1,20 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2025-11-26-12-22-09
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1763782714.772931	F2aThV3Zj6xyqu1PWi	CTQEg01W8E3DgppBTa	10.127.1.96	49872	20.190.181.23	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1763782714.897931	FXLWcf4K7HJVgzQ845	CcYbE41x8a8RGRQ8L7	10.127.1.96	49873	104.75.232.13	80	HTTP	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	471	0	0	F	-	-	-	-	-	-	-
+1763782746.860643	FzNmFE1jOcW4xGbPKi	C4Xb2Q1ihtfhXyqZZ9	10.127.1.96	49931	199.232.214.172	80	HTTP	0	(empty)	application/vnd.ms-cab-compressed	-	0.113163	F	F	176062	176062	0	0	F	-	-	-	-	-	-	-
+1763782747.196513	FYkic937NW1WEq88b2	Cn6NN83UihdKp95zpk	10.127.1.96	49933	13.107.213.42	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	727	-	0	0	F	-	-	-	-	-	-	-
+1763782747.318917	FKRZFU3SlEXNnIHGbl	CVV4OC3E0DxTyraXZk	10.127.1.96	49934	162.159.142.9	80	HTTP	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	471	0	0	F	-	-	-	-	-	-	-
+1763782747.542239	FL7VUz1lZWMp8E4C7a	CoelkO2RFgTBr69Nva	10.127.1.96	49938	13.107.213.42	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	727	-	0	0	F	-	-	-	-	-	-	-
+1763782774.741922	Fg1kVG1y77ZjG4yON9	CRcYTt1YfN9NklxvTk	10.127.1.96	49982	92.122.166.17	80	HTTP	0	(empty)	application/vnd.ms-cab-compressed	-	0.073884	F	F	73211	73211	0	0	F	-	-	-	-	-	-	-
+1763782782.580947	Fsb6EuvqvDbbsG0If	C4fNiC4xyoAUHKpc29	10.127.1.96	49989	150.171.28.10	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1763782782.583277	FKffps29tdJ1z0Rro6	CSu2GE1cZr7QJjHBl1	10.127.1.96	49990	150.171.28.10	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+1763782782.625518	FWlpeg487ax452rS6g	CVV4OC3E0DxTyraXZk	10.127.1.96	49934	162.159.142.9	80	HTTP	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	471	0	0	F	-	-	-	-	-	-	-
+1763782804.532520	FEOEPL2E7egUqf1iLc	CaE4Wr1roYUWbd2365	10.127.1.96	50010	52.111.243.31	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	1858	-	0	0	F	-	-	-	-	-	-	-
+#close	2025-11-26-12-22-09

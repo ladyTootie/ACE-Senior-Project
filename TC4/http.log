@@ -1,0 +1,21 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2025-11-26-12-22-09
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1763782714.238273	CBuAR21SOxCDKMTlrh	10.127.1.96	49871	92.122.166.17	80	1	GET	ctldl.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?f7c568efe0a5a954	-	1.1	Microsoft-CryptoAPI/10.0	-	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782714.860883	CcYbE41x8a8RGRQ8L7	10.127.1.96	49873	104.75.232.13	80	1	GET	ocsp.digicert.com	/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh/sBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H/z9DKA=	-	1.1	Microsoft-CryptoAPI/10.0	-	0	471	200	OK	-	-	(empty)	-	-	-	-	-	-	FXLWcf4K7HJVgzQ845	-	application/ocsp-response
+1763782717.776054	CEic8J18EhjRGXWNF3	10.127.1.96	49881	34.41.139.193	2345	1	GET	xytets.com:2345	/t.asp?os=home	-	1.1	Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko	-	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782718.329742	CwFtL71r94EtSYuOt3	10.127.1.96	49880	34.41.139.193	2345	1	GET	xytets.com:2345	/favicon.ico	-	1.1	Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko	-	0	0	200	OK	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782746.823289	C4Xb2Q1ihtfhXyqZZ9	10.127.1.96	49931	199.232.214.172	80	1	GET	dl.delivery.mp.microsoft.com	/filestreamingservice/files/315ca852-f356-4361-8815-086f38f13875/siheng_25090.1002.cab	-	1.1	Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.32	-	0	176062	200	OK	-	-	(empty)	-	-	-	-	-	-	FzNmFE1jOcW4xGbPKi	-	application/vnd.ms-cab-compressed
+1763782747.281705	CVV4OC3E0DxTyraXZk	10.127.1.96	49934	162.159.142.9	80	1	GET	ocsp.digicert.com	/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh/sBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEA9iL28hwv9dUh9yOh1H1i0=	-	1.1	Microsoft-CryptoAPI/10.0	-	0	471	200	OK	-	-	(empty)	-	-	-	-	-	-	FKRZFU3SlEXNnIHGbl	-	application/ocsp-response
+1763782774.663814	CRcYTt1YfN9NklxvTk	10.127.1.96	49982	92.122.166.17	80	1	GET	ctldl.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?137d11ea399dd141	-	1.1	Microsoft-CryptoAPI/10.0	-	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782774.704234	CRcYTt1YfN9NklxvTk	10.127.1.96	49982	92.122.166.17	80	2	GET	ctldl.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/authrootstl.cab?7774351aa0c0710d	-	1.1	Microsoft-CryptoAPI/10.0	-	0	73211	200	OK	-	-	(empty)	-	-	-	-	-	-	Fg1kVG1y77ZjG4yON9	-	application/vnd.ms-cab-compressed
+1763782782.588620	CVV4OC3E0DxTyraXZk	10.127.1.96	49934	162.159.142.9	80	2	GET	ocsp.digicert.com	/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx/h0Ztl+z8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g/6+rkS7QYXjzkCEAn5bsKVVV8kdJ6vHl3O1J0=	-	1.1	Microsoft-CryptoAPI/10.0	-	0	471	200	OK	-	-	(empty)	-	-	-	-	-	-	FWlpeg487ax452rS6g	-	application/ocsp-response
+1763782804.905673	CQDu2g1jwX54e1k639	10.127.1.96	50011	199.232.210.172	80	1	GET	ctldl.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/authrootstl.cab?41ab9f5c5e64fc5a	-	1.1	Microsoft-CryptoAPI/10.0	-	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782804.947335	CQDu2g1jwX54e1k639	10.127.1.96	50011	199.232.210.172	80	2	GET	ctldl.windowsupdate.com	/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?1d476b497adafd19	-	1.1	Microsoft-CryptoAPI/10.0	-	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1763782805.065278	ChkbLC3v51j4VwYcSk	10.127.1.96	50012	216.58.215.35	80	1	GET	c.pki.goog	/r/r1.crl	-	1.1	Microsoft-CryptoAPI/10.0	-	0	0	304	Not Modified	-	-	(empty)	-	-	-	-	-	-	-	-	-
+#close	2025-11-26-12-22-09
